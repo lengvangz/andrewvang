@@ -4,4 +4,4 @@
 
 📚 Welcome to my portfolio, a space where I present my work and projects.
 
-📫 You can reach me via message on [Linkedin] (https://www.linkedin.com/in/andrew-vang910/)
+📫 You can reach me via message on [https://www.linkedin.com/in/andrew-vang910/] 
