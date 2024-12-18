@@ -4,9 +4,4 @@
 
 📚 Welcome to my portfolio, a space where I present my work and projects.
 
-🛠️ Tools
-
-Language: SQL, Python
-Database: PostgreSQL, MySQL
-Visualization: Tableau
-Spreadsheet: Excel
+📫 You can reach me via message on [Linkedin] (https://www.linkedin.com/in/andrew-vang910/)
